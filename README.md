@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Quiz Game
+# Quiz Game
 
 - This project is a True/False Quiz Game built with Python. It challenges users with a series of questions, evaluates their answers, and keeps track of the score throughout the game.
 
